@@ -1,0 +1,16 @@
+{
+  "source": "/Users/cloviscarmezini/swift/JPApexPredators17/JPApexPredators17/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Apex Predators"
+      },
+      {
+        "comment": "",
+        "key": "Filter"
+      }
+    ]
+  },
+  "version": 1
+}

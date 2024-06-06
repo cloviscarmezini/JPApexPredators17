@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'JPApexPredators17' in project 'JPApexPredators17'
+➜ Explicit dependency on target 'ApexStickers' in project 'JPApexPredators17'
+Target 'ApexStickers' in project 'JPApexPredators17' (no dependencies)

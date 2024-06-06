@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17-master.dia",
+    "emit-module-dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17-master-emit-module.dia",
+    "swift-dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17-master.swiftdeps"
+  },
+  "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/cloviscarmezini/swift/JPApexPredators17/JPApexPredators17/ApexPredator.swift" : {
+    "const-values" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ApexPredator.swiftconstvalues",
+    "dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ApexPredator.d",
+    "diagnostics" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ApexPredator.dia",
+    "index-unit-output-path" : "/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ApexPredator.o",
+    "llvm-bc" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ApexPredator.bc",
+    "object" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ApexPredator.o",
+    "swift-dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ApexPredator.swiftdeps",
+    "swiftmodule" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ApexPredator~partial.swiftmodule"
+  },
+  "/Users/cloviscarmezini/swift/JPApexPredators17/JPApexPredators17/ContentView.swift" : {
+    "const-values" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/cloviscarmezini/swift/JPApexPredators17/JPApexPredators17/JPApexPredators17App.swift" : {
+    "const-values" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17App.swiftconstvalues",
+    "dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17App.d",
+    "diagnostics" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17App.dia",
+    "index-unit-output-path" : "/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17App.o",
+    "llvm-bc" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17App.bc",
+    "object" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17App.o",
+    "swift-dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17App.swiftdeps",
+    "swiftmodule" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/JPApexPredators17App~partial.swiftmodule"
+  },
+  "/Users/cloviscarmezini/swift/JPApexPredators17/JPApexPredators17/PredatorDetail.swift" : {
+    "const-values" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/PredatorDetail.swiftconstvalues",
+    "dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/PredatorDetail.d",
+    "diagnostics" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/PredatorDetail.dia",
+    "index-unit-output-path" : "/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/PredatorDetail.o",
+    "llvm-bc" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/PredatorDetail.bc",
+    "object" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/PredatorDetail.o",
+    "swift-dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/PredatorDetail.swiftdeps",
+    "swiftmodule" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/PredatorDetail~partial.swiftmodule"
+  },
+  "/Users/cloviscarmezini/swift/JPApexPredators17/JPApexPredators17/Predators.swift" : {
+    "const-values" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/Predators.swiftconstvalues",
+    "dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/Predators.d",
+    "diagnostics" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/Predators.dia",
+    "index-unit-output-path" : "/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/Predators.o",
+    "llvm-bc" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/Predators.bc",
+    "object" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/Predators.o",
+    "swift-dependencies" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/Predators.swiftdeps",
+    "swiftmodule" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/JPApexPredators17.build/Debug-iphoneos/JPApexPredators17.build/Objects-normal/arm64/Predators~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "2ecbcc2e6f798c335eaf0a8cb52bb7fe6de69ecb855a2a78064b5a1a112f64d1",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.0",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Products",
+          "derivedDataPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/Previews/JPApexPredators17/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/Previews/JPApexPredators17/Intermediates.noindex",
+              "SYMROOT" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/Previews/JPApexPredators17/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "F1782584-B207-47C7-B165-B5F05B320FD2",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.0",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "2ecbcc2e6f798c335eaf0a8cb52bb7fe6bf75dd19781bc793b794260c4203e1f",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.0",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Products",
+          "derivedDataPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/Previews/JPApexPredators17/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/Previews/JPApexPredators17/Intermediates.noindex",
+              "SYMROOT" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/Previews/JPApexPredators17/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "F1782584-B207-47C7-B165-B5F05B320FD2",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.0",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/JPApexPredators17.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Products",
+      "derivedDataPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "F1782584-B207-47C7-B165-B5F05B320FD2",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

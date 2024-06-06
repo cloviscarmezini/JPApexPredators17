@@ -1,0 +1,24 @@
+{
+  "source": "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/Previews/JPApexPredators17/Intermediates.noindex/JPApexPredators17.build/Debug-iphonesimulator/JPApexPredators17.build/Objects-normal/arm64/PredatorDetail.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Appears In:"
+      },
+      {
+        "comment": "",
+        "key": "Movie Moments:"
+      },
+      {
+        "comment": "",
+        "key": "Read More"
+      },
+      {
+        "comment": "",
+        "key": "Current Location"
+      }
+    ]
+  },
+  "version": 1
+}

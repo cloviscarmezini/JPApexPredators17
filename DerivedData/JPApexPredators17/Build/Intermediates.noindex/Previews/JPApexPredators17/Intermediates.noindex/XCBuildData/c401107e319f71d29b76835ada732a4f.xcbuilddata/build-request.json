@@ -1,0 +1,57 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "2ecbcc2e6f798c335eaf0a8cb52bb7fe6de69ecb855a2a78064b5a1a112f64d1"
+    }
+  ],
+  "containerPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/JPApexPredators17.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Products",
+      "derivedDataPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/Previews/JPApexPredators17/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/Previews/JPApexPredators17/Intermediates.noindex",
+          "SYMROOT" : "/Users/cloviscarmezini/swift/JPApexPredators17/DerivedData/JPApexPredators17/Build/Intermediates.noindex/Previews/JPApexPredators17/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

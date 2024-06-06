@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		hR5CSxMgzUngu/HFULo1CKPWR/Y=
+		</data>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<data>
+		tb75m3yspnzBQlNX8duZ8MNh8Cw=
+		</data>
+		<key>Assets.car</key>
+		<data>
+		h8Tm1aPL+ErfmwClKXA8q7NkYD8=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		s8lmG98zXmCmSYUr1PUx0IW3OGE=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>PlugIns/ApexStickers.appex/ApexStickers</key>
+		<data>
+		jn4bIufdjEC7lAYYvwMDHGD+5Hg=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Assets.car</key>
+		<data>
+		xMfD5tmYBK+OgGm8BTKw0EC/kho=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Info.plist</key>
+		<data>
+		BmkIB21oM0EFwLXy23LYc5/f328=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/Info.plist</key>
+		<data>
+		3UMakCemEPCmXOw04k8n0mTE634=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/allosaurus.png</key>
+		<data>
+		BH1fOLbtB9DkBNXXX4oGHo/Yl+o=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/atrociraptor.png</key>
+		<data>
+		oS7u9L0SzTZvPxwBVVUyTBJw1ek=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/baryonyx.png</key>
+		<data>
+		BwCXxAz2GVVc94i/XNjz0BChwJM=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/brachiosaurus.png</key>
+		<data>
+		iDMgs3KoUNIRsV7JZyuaqmDyBQw=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/carnotaurus.png</key>
+		<data>
+		6PFk6msMABwRqMFwc6SICuCtKfE=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/compsognathus.png</key>
+		<data>
+		B/rp0DSfhNpaDDSFg4e6qil5mLU=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/dilophosaurus.png</key>
+		<data>
+		L2jABS8glybQ6j28nkdluJ+vNj4=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/dimorphodon.png</key>
+		<data>
+		YUPOGPzhhvPwjQTFqrtydD0lnV0=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/giganotosaurus.png</key>
+		<data>
+		7F4cPN5yuy4E4vDTR3pQoPd4MrE=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/indominusrex.png</key>
+		<data>
+		dM2G1enXm3vyErp8bZ9A6Tlq88E=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/indoraptor.png</key>
+		<data>
+		DlXUewG2arkWobWQt3Xl1Cpd2jM=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/mosasaurus.png</key>
+		<data>
+		Igc1qXJNRryIS5T/JwJsNMYG/Do=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/pachycephalosaurus.png</key>
+		<data>
+		JM03IrPKPri3OV8EZ57oXxOJcXk=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/pteranodon.png</key>
+		<data>
+		NWVFN7/Ywm36u5721jFvvAymNJ8=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/pyroraptor.png</key>
+		<data>
+		Q7+TvF2xNhIm/4fgonoICEHVJ88=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/quetzalcoatlus.png</key>
+		<data>
+		CcNwPxBnAYRzJaBxMs5oz864VFY=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/spinosaurus.png</key>
+		<data>
+		g0QjPKDYk2eyTBIkoShnVjjhRMI=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/stegosaurus.png</key>
+		<data>
+		h8jgPXettvnzwvFHTfTHXotKQdE=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/therizinosaurus.png</key>
+		<data>
+		JGFboZuNLrFlUQ7q19fWHFCMBsI=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/tyrannosaurusrex.png</key>
+		<data>
+		td2y0i2ADJplXry1FWaEQlVErmg=
+		</data>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/velociraptor.png</key>
+		<data>
+		Dh/82/QkOkZgd6JJPUxKflh5F1c=
+		</data>
+		<key>PlugIns/ApexStickers.appex/_CodeSignature/CodeResources</key>
+		<data>
+		4onJO0p+4VKEYix474H/YsHuKxk=
+		</data>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon27x20@2x.png</key>
+		<data>
+		BUs2BwgfOm1cCi2H4RcJ6cPC9Xo=
+		</data>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon27x20@3x.png</key>
+		<data>
+		dzbCxa+UAsfQU1g9WF6aEIyaCO0=
+		</data>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon32x24@2x.png</key>
+		<data>
+		D0ddSLWN2uZ/MqIbogEc2275+8c=
+		</data>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon32x24@3x.png</key>
+		<data>
+		j9WleHH1BfnuastIyoPNkko+XtU=
+		</data>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon60x45@2x.png</key>
+		<data>
+		MA2BGWA+XX3HKcC3x7EBqAcNfsE=
+		</data>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon60x45@3x.png</key>
+		<data>
+		d3TPML8VMHeBXER6bFxDuk34zqc=
+		</data>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon67x50@2x.png</key>
+		<data>
+		atKXOHVrBxswLUevxoFlA9vG7GM=
+		</data>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon74x55@2x.png</key>
+		<data>
+		3uYjfOUJp0V6tDkFzeaFVZHWrbg=
+		</data>
+		<key>jpapexpredators.json</key>
+		<data>
+		b52qSRzNAzSV+tzmsZvTDmLO6mw=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3TvkvDvdBJFlswSt2NI5HSfUJc77VS3vU3EBB2c/YCU=
+			</data>
+		</dict>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jCNzhZNpocgtBzAl/XnZq5pYv51tvjGq69cv9UTw+5Y=
+			</data>
+		</dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Vy4OE5LnuQDS7OjedeMJjXcUv4KIC073iv3nlXf3Kas=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/ApexStickers</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0wBn1p63pxGQuPUbGV1M5Ng+k9m58QlEK61SDwg8J8o=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0VHx0CqhuIZswZryCAbtboeoSW570lNSTdO64MZqzxc=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e1+TujDVHjpQG8aJFaqkw5FLxke6qgUugRyC7YQNiCo=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zpr7ar138F/ZMewMhD2SsIie2Dettpt21xvSsR1dxE4=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/allosaurus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jKj9RMmXWApl0qkbPH/YejVuPaIB6RBa2HVi8RmtpXg=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/atrociraptor.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cbkwMq2r593zp/icon2F3H3gAdU44+kSQIL+7pvQK8o=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/baryonyx.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vPcpkGBSYdSyVapnwY9VYMhQrFXdBk3dlGjC3OGqn1A=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/brachiosaurus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZJN/HulEoPaMayFlY5FiHdUSVft4AcsbGbBnbqdt8rQ=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/carnotaurus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QAXBiVVQlidYYPiFMuzCyQyn6VpFLabjHhZIu+db9Bc=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/compsognathus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HdAOBqdZrIHkYGmw+Rnr/0L7Nk3TDUvL47/r7JAC5qU=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/dilophosaurus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D/teLU7svpzxJHYo2/s1w16k30jR76F6UxmgD72jtgg=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/dimorphodon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AXBOlp9EgkqbK0J+zvYdUsxVvIk2S33UyoDCUWf1Dr8=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/giganotosaurus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dW0fXjvE53HkNzlO85gYQvs1F3pFUA2ICZoxIxySotg=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/indominusrex.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zBTxR4CmMcKchPzOnqiEFURiLbJHlH7gFRN3PC0kwZo=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/indoraptor.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2rtKfyBbD8x03hzt45n4sadgPuYwMt6MmJgg5u3Dwvc=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/mosasaurus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qX4gJCdWbDbY1N45MZx1LbJvrfXgMDqo0bhQ8zvTr0M=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/pachycephalosaurus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KaLx+p37+x2BgqJVT81FxQRZ2BOSrLftwplZxZRvcAI=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/pteranodon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JNfRAJGWeA+WbIg6qMmv4gm2HJC9MxnISa1razNlzt8=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/pyroraptor.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Owl4VlXkgJtGMP5ygDbfEpcOHS34yK7poCI7/y63ypQ=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/quetzalcoatlus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7Lm+wLYLeWb7KDalCBIyL1Jv818sKJSsZswl1kqa4fI=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/spinosaurus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j/zxm84ib6TkFVgea1dAs4SOYq/k/Vz7d9LhDmtdB2w=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/stegosaurus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tFUPpA+AxTN5NKr1UPXCeXm1LUmUGxpHANCNp1pe5N0=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/therizinosaurus.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qy/p2pUNUCtcMO35pV9BF88Jk+X6cpKHlQYppdL8IAY=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/tyrannosaurusrex.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			btbAuoTLtiJoOUSYBd8TFr0G2l13QU9sAS68oVfM1hI=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/Sticker Pack.stickerpack/velociraptor.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bwl8okE6t8FBVlesILZDDOpwffO09ZAUQidAGluwipA=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QvduMz8Lncy9NvOo0NIMXRqWXaAe0j6oC7cv2S1eT2M=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon27x20@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qf20Lx85p4qsO44fDHUf4xrtdyTJCI2DJhQ4oictJAk=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon27x20@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q9S6a4bA/kfoI62I6bmwW5YFYvho6Yx8KEIb5eGYjdE=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon32x24@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CjSGrt2wEaEXqgCfaOua2QeSczRnsGRyyLw9uH1wh5w=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon32x24@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eGtMcQNdkgIgVilqQMDiszgDIfPW4NNS0aNdDyMEuns=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon60x45@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R5310dcqbc+ytOyIMWJSg5L6H9A2UWWeRhq4qvwL2LU=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon60x45@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/8i8IB6O6Kyg7yyjnp4z90vesie6wGEIro0ItrdAzqg=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon67x50@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0hfbfiXLRUGTTrECBGIbOSRJIT7o1qMz9yYcw7DkgP4=
+			</data>
+		</dict>
+		<key>PlugIns/ApexStickers.appex/iMessage App Icon74x55@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qDpENuKS98uiQXWEm29AauDLFOqHuzWYYWZSrH1qFW0=
+			</data>
+		</dict>
+		<key>jpapexpredators.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			77Jmk3vi3JEH8kDcKE72ZelazetdVakFGqZ7rYFWK4Q=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

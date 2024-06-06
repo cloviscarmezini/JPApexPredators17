@@ -1,0 +1,20 @@
+{
+  "source": "/Users/cloviscarmezini/swift/JPApexPredators17/JPApexPredators17/PredatorDetail.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Appears In:"
+      },
+      {
+        "comment": "",
+        "key": "Movie Moments:"
+      },
+      {
+        "comment": "",
+        "key": "Read More"
+      }
+    ]
+  },
+  "version": 1
+}
